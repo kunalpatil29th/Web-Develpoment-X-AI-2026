@@ -1,0 +1,97 @@
+<!--
+HTML Entities Theory
+
+HTML me kuch characters reserved hote hain. Agar unhe directly use karein, to browser confuse ho sakta hai ki ye HTML tag hai ya normal text.
+Is problem ko solve karne ke liye HTML Entities use ki jati hain.
+
+HTML Entity ek special code hota hai jo browser ko batata hai ki special symbol ko text ki tarah display karna hai.
+
+Definition
+
+HTML Entities are special codes used to display reserved characters and symbols in a webpage.
+
+Syntax
+&entity_name;
+
+or
+
+&#entity_number;
+Why HTML Entities are Used
+1. Reserved Characters Display Karne Ke Liye
+
+Characters like:
+
+< > &
+
+HTML me special meaning rakhte hain.
+
+Example:
+
+<p>5 < 10</p>
+
+Ye error create kar sakta hai.
+
+Correct way:
+
+<p>5 &lt; 10</p>
+
+Output:
+
+5 < 10
+2. Special Symbols Show Karne Ke Liye
+
+Example:
+
+© Copyright
+® Registered
+₹ Rupee Symbol
+&copy;
+
+Output:
+
+©
+3. Extra Spaces Dene Ke Liye
+
+HTML multiple spaces ignore karta hai.
+&nbsp; non-breaking space create karta hai.
+
+Example:
+
+Hello&nbsp;&nbsp;&nbsp;World
+Types of HTML Entities
+1. Named Entities
+
+Entity name se represent kiya jata hai.
+
+Example:
+
+&lt;
+&gt;
+&amp;
+2. Numeric Entities
+
+Entity number se represent kiya jata hai.
+
+Example:
+
+&#60;
+&#62;
+Common HTML Entities
+Symbol	Entity
+<	&lt;
+>	&gt;
+&	&amp;
+"	&quot;
+Space	&nbsp;
+©	&copy;
+₹	&#8377;
+Advantages of HTML Entities
+Reserved characters safely display hote hain
+Special symbols show kar sakte hain
+Formatting better hoti hai
+Browser parsing errors avoid hote hain
+Conclusion
+
+HTML Entities web pages me special characters aur reserved symbols ko safely display karne ke liye use hoti hain. Ye HTML coding ka important part hai aur webpage formatting ko improve karti hain.
+
+-->
