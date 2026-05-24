@@ -1,4 +1,4 @@
-h1{
+/* h1{
     color: aqua;
 }
 
@@ -7,4 +7,14 @@ h2 {
 }
 button{
     color: aqua;
-}
+} */
+
+ /* Unversial selector */
+ * {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+ }
+
+ /* ID selector in css */
+ #myId{
+    transition-property: all;
+ }
