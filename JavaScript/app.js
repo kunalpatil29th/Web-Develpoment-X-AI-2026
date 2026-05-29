@@ -1,0 +1,58 @@
+// // console.log("Hello");
+// // let a = 10;
+// // let b = 20;
+// // console.log("sum :",a+b);
+
+// // let pencilPrice = 10;
+// // let colorProice = 20;
+// // console.log(`The total price is :  ${pencilPrice + colorProice} Ruppes`);
+
+
+// // operator
+// let a = 10;
+// let b = 20;
+// console.log(a+b);
+// console.log(a-b);
+// console.log(a*b);
+// console.log(a%b);
+// console.log(a**b);
+// console.log(a/b);
+
+
+// // unary operator
+// console.log(a++);
+// console.log(++a);
+
+// let age = 18;
+// console.log(age > 18);
+
+
+// conditional statement 
+// if-else
+// nested if else
+// switch 
+
+// let age = 10;
+
+
+// if(age > 18){
+//     console.log("adult")
+// }
+// else{
+//     console.log("not adult")
+// }
+
+
+// alert
+// alert("something this wrong")
+
+// // prompt
+
+// prompt("Hello: ")
+
+
+// 
+
+let firstName = prompt("enter first name :");
+let lastName = prompt("enter second name:");
+console.log("Welcome ", firstName," ", lastName,"!" );
