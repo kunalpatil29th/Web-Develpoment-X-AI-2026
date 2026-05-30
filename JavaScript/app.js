@@ -53,6 +53,8 @@
 
 // 
 
-let firstName = prompt("enter first name :");
-let lastName = prompt("enter second name:");
-console.log("Welcome ", firstName," ", lastName,"!" );
+// let firstName = prompt("enter first name :");
+// let lastName = prompt("enter second name:");
+// console.log("Welcome ", firstName," ", lastName,"!" );
+
+// String method
