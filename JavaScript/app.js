@@ -1,61 +1,38 @@
-// // console.log("Hello");
-// // let a = 10;
-// // let b = 20;
-// // console.log("sum :",a+b);
+console.log("Hello");
+let a = 10;
+let b = 20;
+console.log("sum :",a+b);
 
-// // let pencilPrice = 10;
-// // let colorProice = 20;
-// // console.log(`The total price is :  ${pencilPrice + colorProice} Ruppes`);
-
-
-// // operator
-// let a = 10;
-// let b = 20;
-// console.log(a+b);
-// console.log(a-b);
-// console.log(a*b);
-// console.log(a%b);
-// console.log(a**b);
-// console.log(a/b);
+let pencilPrice = 10;
+let colorProice = 20;
+console.log(`The total price is :  ${pencilPrice + colorProice} Ruppes`);
 
 
-// // unary operator
-// console.log(a++);
-// console.log(++a);
-
-// let age = 18;
-// console.log(age > 18);
-
-
-// conditional statement 
-// if-else
-// nested if else
-// switch 
-
-// let age = 10;
+operator
+let a = 10;
+let b = 20;
+console.log(a+b);
+console.log(a-b);
+console.log(a*b);
+console.log(a%b);
+console.log(a**b);
+console.log(a/b);
 
 
-// if(age > 18){
-//     console.log("adult")
-// }
-// else{
-//     console.log("not adult")
-// }
+// unary operator
+console.log(a++);
+console.log(++a);
+
+let age = 18;
+console.log(age > 18);
 
 
-// alert
-// alert("something this wrong")
-
-// // prompt
-
-// prompt("Hello: ")
 
 
-// 
 
-// let firstName = prompt("enter first name :");
-// let lastName = prompt("enter second name:");
-// console.log("Welcome ", firstName," ", lastName,"!" );
+let firstName = prompt("enter first name :");
+let lastName = prompt("enter second name:");
+console.log("Welcome ", firstName," ", lastName,"!" );
 
-// String method
+
 console.log("Print Hello ")
