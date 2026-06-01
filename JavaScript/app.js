@@ -58,4 +58,4 @@
 // console.log("Welcome ", firstName," ", lastName,"!" );
 
 // String method
-// 
+console.log("Print Hello ")
