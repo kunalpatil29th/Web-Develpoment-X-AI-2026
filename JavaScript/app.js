@@ -1,7 +1,8 @@
-console.log("Hello");
+koconsole.log("Hello");
 let a = 10;
 let b = 20;
 console.log("sum :",a+b);
+/// the print console.log statement 
 
 let pencilPrice = 10;
 let colorProice = 20;
